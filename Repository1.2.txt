@@ -2,3 +2,4 @@ visual studio to git
 JOHN LESTER RORBLES
 GIT TO VS
 github to visual studio
+vs to git
